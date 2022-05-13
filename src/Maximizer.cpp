@@ -28,7 +28,7 @@
 #include "Maximizer.h"
 
 std::string MaximizerAddIn::extensionName() {
-    return "Sample";
+    return "Maximizer";
 }
 
 MaximizerAddIn::MaximizerAddIn() {

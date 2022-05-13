@@ -1,0 +1,7 @@
+# ninja log v5
+10	506	6741469727941770	CMakeFiles/SampleAddIn.dir/src/dllmain.cpp.obj	47a78cdfcabd35ce
+0	1016	6741469733018181	CMakeFiles/SampleAddIn.dir/src/exports.cpp.obj	dc10cd4704b20af
+30	1207	6741469734933336	CMakeFiles/SampleAddIn.dir/src/Maximizer.cpp.obj	28ee646e71bdbe6e
+18	1293	6741469735792485	CMakeFiles/SampleAddIn.dir/src/Component.cpp.obj	69ab3a85f5a42790
+1293	2125	6741469743616878	SampleAddIn.dll	fb3d01f4b050b523
+1293	2125	6741469743616878	SampleAddIn.lib	fb3d01f4b050b523

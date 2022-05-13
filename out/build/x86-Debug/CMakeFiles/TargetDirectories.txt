@@ -1,0 +1,3 @@
+D:/Projects/С++/Maximizer last/out/build/x86-Debug/CMakeFiles/MaximizerAddIn.dir
+D:/Projects/С++/Maximizer last/out/build/x86-Debug/CMakeFiles/edit_cache.dir
+D:/Projects/С++/Maximizer last/out/build/x86-Debug/CMakeFiles/rebuild_cache.dir
