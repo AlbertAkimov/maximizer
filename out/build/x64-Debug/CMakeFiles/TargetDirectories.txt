@@ -1,3 +1,0 @@
-D:/Projects/С++/Maximizer last/out/build/x64-Debug/CMakeFiles/SampleAddIn.dir
-D:/Projects/С++/Maximizer last/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-D:/Projects/С++/Maximizer last/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
